@@ -1,5 +1,6 @@
 from flask import Flask, render_template, url_for
 
+#this is for the flask framework 
 
 app = Flask(__name__)
 
